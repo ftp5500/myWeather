@@ -11,6 +11,19 @@
 		41060B582A3CA6DA00B984EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41060B572A3CA6DA00B984EC /* ContentView.swift */; };
 		41060B5A2A3CA6DC00B984EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41060B592A3CA6DC00B984EC /* Assets.xcassets */; };
 		41060B5D2A3CA6DC00B984EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41060B5C2A3CA6DC00B984EC /* Preview Assets.xcassets */; };
+		41060B692A3CA8E700B984EC /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41060B682A3CA8E700B984EC /* Colors.swift */; };
+		41060B6B2A3CA99400B984EC /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41060B6A2A3CA99400B984EC /* Extension.swift */; };
+		41E9BFB82A3CB946007069E3 /* HeaderCompnent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E9BFB72A3CB945007069E3 /* HeaderCompnent.swift */; };
+		41F2EFDB2A3CED9E0082D2D1 /* TopWeatherCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFDA2A3CED9E0082D2D1 /* TopWeatherCard.swift */; };
+		41F2EFDD2A3D9C620082D2D1 /* NavabrUnderCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFDC2A3D9C620082D2D1 /* NavabrUnderCard.swift */; };
+		41F2EFE22A3DA9810082D2D1 /* SmartAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFE12A3DA9810082D2D1 /* SmartAC.swift */; };
+		41F2EFE42A3DAA2D0082D2D1 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFE32A3DAA2D0082D2D1 /* Shapes.swift */; };
+		41F2EFE82A3DB0520082D2D1 /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFE72A3DB0520082D2D1 /* Styles.swift */; };
+		41F2EFEA2A3DEC9E0082D2D1 /* TestComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFE92A3DEC9E0082D2D1 /* TestComponent.swift */; };
+		41F2EFEC2A3EB1A50082D2D1 /* LivingRoomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFEB2A3EB1A50082D2D1 /* LivingRoomView.swift */; };
+		41F2EFF22A3EB4B90082D2D1 /* LivingRoomHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFF12A3EB4B90082D2D1 /* LivingRoomHeader.swift */; };
+		41F2EFF42A3F044A0082D2D1 /* CenterOvalComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFF32A3F044A0082D2D1 /* CenterOvalComponent.swift */; };
+		41F2EFF62A3F4C960082D2D1 /* UnionShapeComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F2EFF52A3F4C960082D2D1 /* UnionShapeComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		41060B572A3CA6DA00B984EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41060B592A3CA6DC00B984EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41060B5C2A3CA6DC00B984EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41060B682A3CA8E700B984EC /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		41060B6A2A3CA99400B984EC /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		41E9BFB72A3CB945007069E3 /* HeaderCompnent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCompnent.swift; sourceTree = "<group>"; };
+		41F2EFDA2A3CED9E0082D2D1 /* TopWeatherCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopWeatherCard.swift; sourceTree = "<group>"; };
+		41F2EFDC2A3D9C620082D2D1 /* NavabrUnderCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavabrUnderCard.swift; sourceTree = "<group>"; };
+		41F2EFE12A3DA9810082D2D1 /* SmartAC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartAC.swift; sourceTree = "<group>"; };
+		41F2EFE32A3DAA2D0082D2D1 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		41F2EFE72A3DB0520082D2D1 /* Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
+		41F2EFE92A3DEC9E0082D2D1 /* TestComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestComponent.swift; sourceTree = "<group>"; };
+		41F2EFEB2A3EB1A50082D2D1 /* LivingRoomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivingRoomView.swift; sourceTree = "<group>"; };
+		41F2EFF12A3EB4B90082D2D1 /* LivingRoomHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivingRoomHeader.swift; sourceTree = "<group>"; };
+		41F2EFF32A3F044A0082D2D1 /* CenterOvalComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterOvalComponent.swift; sourceTree = "<group>"; };
+		41F2EFF52A3F4C960082D2D1 /* UnionShapeComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnionShapeComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +77,14 @@
 		41060B542A3CA6DA00B984EC /* MyWeather */ = {
 			isa = PBXGroup;
 			children = (
+				41F2EFE62A3DB0350082D2D1 /* Utiltis */,
+				41F2EFE52A3DB0190082D2D1 /* Shapes */,
+				41060B672A3CA80200B984EC /* Constants */,
+				41060B662A3CA7D400B984EC /* Extensions */,
+				41060B652A3CA7C200B984EC /* Components */,
+				41060B642A3CA7AA00B984EC /* Models */,
 				41060B552A3CA6DA00B984EC /* MyWeatherApp.swift */,
-				41060B572A3CA6DA00B984EC /* ContentView.swift */,
+				41060B632A3CA78000B984EC /* View */,
 				41060B592A3CA6DC00B984EC /* Assets.xcassets */,
 				41060B5B2A3CA6DC00B984EC /* Preview Content */,
 			);
@@ -65,6 +97,93 @@
 				41060B5C2A3CA6DC00B984EC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		41060B632A3CA78000B984EC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				41060B572A3CA6DA00B984EC /* ContentView.swift */,
+				41F2EFEB2A3EB1A50082D2D1 /* LivingRoomView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		41060B642A3CA7AA00B984EC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		41060B652A3CA7C200B984EC /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				41F2EFEE2A3EB2480082D2D1 /* LivingRoomComponents */,
+				41F2EFDE2A3DA9540082D2D1 /* Smarts */,
+				41F2EFED2A3EB21C0082D2D1 /* ContentViewComponents */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		41060B662A3CA7D400B984EC /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				41060B6A2A3CA99400B984EC /* Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		41060B672A3CA80200B984EC /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				41060B682A3CA8E700B984EC /* Colors.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		41F2EFDE2A3DA9540082D2D1 /* Smarts */ = {
+			isa = PBXGroup;
+			children = (
+				41F2EFE12A3DA9810082D2D1 /* SmartAC.swift */,
+			);
+			path = Smarts;
+			sourceTree = "<group>";
+		};
+		41F2EFE52A3DB0190082D2D1 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				41F2EFE32A3DAA2D0082D2D1 /* Shapes.swift */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		41F2EFE62A3DB0350082D2D1 /* Utiltis */ = {
+			isa = PBXGroup;
+			children = (
+				41F2EFE72A3DB0520082D2D1 /* Styles.swift */,
+			);
+			path = Utiltis;
+			sourceTree = "<group>";
+		};
+		41F2EFED2A3EB21C0082D2D1 /* ContentViewComponents */ = {
+			isa = PBXGroup;
+			children = (
+				41E9BFB72A3CB945007069E3 /* HeaderCompnent.swift */,
+				41F2EFDA2A3CED9E0082D2D1 /* TopWeatherCard.swift */,
+				41F2EFDC2A3D9C620082D2D1 /* NavabrUnderCard.swift */,
+				41F2EFE92A3DEC9E0082D2D1 /* TestComponent.swift */,
+			);
+			path = ContentViewComponents;
+			sourceTree = "<group>";
+		};
+		41F2EFEE2A3EB2480082D2D1 /* LivingRoomComponents */ = {
+			isa = PBXGroup;
+			children = (
+				41F2EFF12A3EB4B90082D2D1 /* LivingRoomHeader.swift */,
+				41F2EFF32A3F044A0082D2D1 /* CenterOvalComponent.swift */,
+				41F2EFF52A3F4C960082D2D1 /* UnionShapeComponent.swift */,
+			);
+			path = LivingRoomComponents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +257,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				41060B582A3CA6DA00B984EC /* ContentView.swift in Sources */,
+				41F2EFE82A3DB0520082D2D1 /* Styles.swift in Sources */,
+				41060B6B2A3CA99400B984EC /* Extension.swift in Sources */,
+				41F2EFE42A3DAA2D0082D2D1 /* Shapes.swift in Sources */,
+				41F2EFF62A3F4C960082D2D1 /* UnionShapeComponent.swift in Sources */,
+				41F2EFF22A3EB4B90082D2D1 /* LivingRoomHeader.swift in Sources */,
+				41F2EFEC2A3EB1A50082D2D1 /* LivingRoomView.swift in Sources */,
+				41F2EFDB2A3CED9E0082D2D1 /* TopWeatherCard.swift in Sources */,
+				41F2EFE22A3DA9810082D2D1 /* SmartAC.swift in Sources */,
+				41F2EFF42A3F044A0082D2D1 /* CenterOvalComponent.swift in Sources */,
+				41E9BFB82A3CB946007069E3 /* HeaderCompnent.swift in Sources */,
+				41F2EFEA2A3DEC9E0082D2D1 /* TestComponent.swift in Sources */,
+				41F2EFDD2A3D9C620082D2D1 /* NavabrUnderCard.swift in Sources */,
+				41060B692A3CA8E700B984EC /* Colors.swift in Sources */,
 				41060B562A3CA6DA00B984EC /* MyWeatherApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,6 +407,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +437,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
